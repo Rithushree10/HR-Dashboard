@@ -11,3 +11,4 @@ Excel,MySQL,Power BI, Tableau
 
 [click here for view the excel file](https://docs.google.com/spreadsheets/d/1dqQQPoTkpn7AE0p3OdNYwGR2I3nfRjf-/edit?usp=sharing&ouid=115036276240057545312&rtpof=true&sd=true)
 
+![ee](https://github.com/user-attachments/assets/662c13c9-5382-45e2-9d5a-09704ed24444)
